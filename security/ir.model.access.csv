@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_aa_custom_sale_order_module_aa_custom_sale_order_module,aa_custom_sale_order_module.aa_custom_sale_order_module,model_aa_custom_sale_order_module_aa_custom_sale_order_module,base.group_user,1,1,1,1
